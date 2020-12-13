@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding-ArchComp</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="body">Hi Dear,\nSilahkan perbaharui daftar Film/Acara TV  Per minggu. \nTerimakasih</string>
+    <string name="subject">Silahkan perbaharui daftar film</string>
+    <string name="email">gueamril@yahoo.com</string>
+    <string name="title">Email to :</string>
+    <string name="change_language">ID-EN</string>
+    <string name="title_general">Judul...</string>
+    <string name="overview">Gambaran umum...</string>
+    <string name="share">Share Button</string>
+    <string name="poster">Poster Film</string>
+    <string name="sharedetail">Hai Teman,\nDisini saya akan merekomendasikan ke kamu sebuah film  </string>
+    <string name="sharedetail2"> hari ini.\nSelamat menonton. </string>
+    <string name="sharedetailtv">Hai Teman,\nDisini saya akan merekomendasikan ke kamu sebuah acara TV </string>
+    <string name="sharedetailtv2"> hari ini.\nSelamat menonton.</string>
+    <string name="detailmovie">Detail Film</string>
+    <string name="detailtivishow">Detail Acara TV</string>
+    <string name="director">Direktur: %s</string>
+    <string name="writer">Penulis: %s</string>
+    <string name="screenplay">Screenplay: %s</string>
+    <string name="personcasting">Pemeran : %s</string>
+    <string name="headercast">Pemeran</string>
+    <string name="creator">Pencipta: %s</string>
+    <string name="seriescast">Pemeran serial</string>
+    <string name="seriescasting">Pemeran: %s</string>
+</resources>
